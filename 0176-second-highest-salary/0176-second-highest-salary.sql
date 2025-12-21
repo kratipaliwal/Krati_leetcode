@@ -1,0 +1,6 @@
+# Write your MySQL query statement below
+SELECT COALESCE 
+((SELECT MAX(SALARY) FROM EMPLOYEE
+WHERE SALARY < (SELECT MAX(SALARY) FROM EMPLOYEE ))
+,NULL)
+AS SecondHighestSalary 
