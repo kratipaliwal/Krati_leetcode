@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0176-second-highest-salary) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
