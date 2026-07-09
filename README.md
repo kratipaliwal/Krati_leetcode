@@ -6,14 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 ## Database
 |  |
@@ -25,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0704-binary-search) |
 ## Binary Search
