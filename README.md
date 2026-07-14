@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0704-binary-search) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -62,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
