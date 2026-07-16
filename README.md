@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
