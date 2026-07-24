@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kratipaliwal/Krati_leetcode/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
@@ -64,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kratipaliwal/Krati_leetcode/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -193,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
