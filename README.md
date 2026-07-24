@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0621-task-scheduler) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kratipaliwal/Krati_leetcode/tree/master/1046-last-stone-weight) |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -97,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0621-task-scheduler) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kratipaliwal/Krati_leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
