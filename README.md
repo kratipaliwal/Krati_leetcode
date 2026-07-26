@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -217,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
