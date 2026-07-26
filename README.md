@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,8 +227,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kratipaliwal/Krati_leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
